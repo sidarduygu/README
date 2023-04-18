@@ -1,7 +1,6 @@
 <hr>
 
 
-![profile views](https://komarev.com/ghpvc/?username=sidarduygu)
 
 <h3>
 <img align="center" src="https://cdn-icons-png.flaticon.com/512/10364/10364377.png " width="30">
